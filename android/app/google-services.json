@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "407061314076",
+    "project_id": "doczone-45457",
+    "storage_bucket": "doczone-45457.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407061314076:android:13ef62c968d5b3e4b93dd9",
+        "android_client_info": {
+          "package_name": "com.doczone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407061314076-vhstgqtns0gr8vsed92ep4hnls3tl4fi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZixGs-9on4-ryOABS4fgKHu5Da7VS-C4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407061314076-vhstgqtns0gr8vsed92ep4hnls3tl4fi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
